@@ -32,7 +32,6 @@ The notebook includes:
    ```bash
    pip install -r requirements.txt
    ```
-   *(The `requirements.txt` file can be created if additional dependencies are included.)*
 
 ### Running the Notebook
 1. Clone the repository:
@@ -83,6 +82,3 @@ This repository is licensed under the [MIT License](LICENSE).
 
 For any questions or discussions related to the project, feel free to contact [Ferhat Ozgur Catak](mailto:f.ozgur.catak@uis.no).
 
----
-
-Let me know if there are additional sections or details you'd like to add!
